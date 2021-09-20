@@ -1,0 +1,19 @@
+h1 {
+  font-size: 100px;
+  color: pink;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  background-color: lightgreen;
+  font-family: 'Oswald', sans-serif;
+  border-style: dashed;
+  border-color: white;
+}
+
+h4 {
+  padding: 40px;
+  margin: 0px 0px 32px 0px;
+}
