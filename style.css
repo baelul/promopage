@@ -24,4 +24,46 @@ body {
 .paragraph {
   text-align: center;
   font-size: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.red {
+  background-color: #7d2d28;
+}
+
+.characters {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  display: block;
+}
+
+.sec1 {
+  float: left;
+  width: 25%;
+}
+
+.sec2 {
+  float: left;
+  width: 50%;
+}
+
+.sec3 {
+  float: right;
+  width: 25%;
+}
+
+.characters h1 {
+  font-size: 35px;
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.characters img {
+  text-align: left;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
 }
