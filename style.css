@@ -61,6 +61,13 @@ body {
   margin-right: 300px;
 }
 
+.characters h5 {
+  font-size: 15px;
+  margin-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
 .characters img {
   text-align: left;
   border-radius: 50%;
